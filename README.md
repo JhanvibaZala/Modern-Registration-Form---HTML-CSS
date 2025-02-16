@@ -1,2 +1,13 @@
 # Modern-Registration-Form---HTML-CSS
-Description: A modern and responsive registration form built with HTML &amp; CSS. It features a clean UI, Google Fonts (Poppins), and a fully responsive layout. The form includes fields for Full Name, Email, and Password, with smooth hover effects for better user interaction. 
+A simple and modern registration form built using HTML & CSS. This form features a clean UI, Google Fonts (Poppins), and a fully responsive design that works across all devices.
+
+✨ Features
+✅ Modern & Clean UI
+✅ Fully Responsive Design
+✅ Google Fonts Integration
+✅ Interactive Hover Effects
+
+🛠️ Technologies Used
+HTML5 – Structure of the form
+CSS3 – Styling and layout
+Google Fonts – Poppins font for a stylish look
